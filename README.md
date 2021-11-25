@@ -22,3 +22,18 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+## Para poder correr la simulación
+
+1. Abrir la carpeta
+```
+reto/Simulation
+```
+
+2. Instalar la extensión
+```
+Live Server
+```
+
+3. Correrlo con Live Server
+
+El Repositorio se encuentra en: https://github.com/LaloVene/TC2008B-Reto
