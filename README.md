@@ -29,6 +29,8 @@ jupyter notebook
 reto/Simulation
 ```
 
+2. Descargar los assets de https://drive.google.com/drive/folders/1C5NXTdiu3xjoH83LGqTedYbtSQPXkz13?usp=sharing y poenrlos en reto/Simulation/assets
+
 2. Instalar la extensión
 ```
 Live Server
